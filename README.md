@@ -1,5 +1,4 @@
-# Title
-Migration to GraphQL Subscriptions for Real-time Updates
+# Migration to GraphQL Subscriptions for Real-time Updates
 
 ## Context
 In our application, we have a requirement for real-time updates to reflect changes made by users immediately across all connected clients. The current approach using traditional REST APIs requires continuous polling or separate WebSocket connections, leading to increased network traffic and complexity.
