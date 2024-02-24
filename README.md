@@ -15,5 +15,4 @@ Cons – What becomes more difficult?
 
 ## Sample code
 Give some sample code related to this decision.
-# architecture-graphQL
-# architecture-graphQL
+# architecture-graphQL# architecture-graphQL
