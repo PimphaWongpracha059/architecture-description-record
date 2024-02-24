@@ -20,8 +20,7 @@ Cons:
 - Learning curve: Developers may require training to understand and implement GraphQL subscriptions effectively.
 - Initial implementation effort: Migrating to GraphQL subscriptions requires updates to both server-side and client-side code, which may require significant development resources.
 
-## Sample code
-# Sample GraphQL subscription to receive real-time updates for new posts
+## Sample code GraphQL
 subscription {
   newPost {
     id
