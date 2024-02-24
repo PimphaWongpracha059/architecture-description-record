@@ -21,6 +21,7 @@ Cons:
 - Initial implementation effort: Migrating to GraphQL subscriptions requires updates to both server-side and client-side code, which may require significant development resources.
 
 ## Sample code GraphQL
+```graphql
 subscription {
   newPost {
     id
@@ -32,4 +33,3 @@ subscription {
     }
   }
 }
-# architecture-graphQL# architecture-graphQL
